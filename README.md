@@ -1,2 +1,3 @@
-# ZWorld
-A PVZ2 Fan-game that I am working on
+Download the latest version for better game experience!
+
+Latest version: **Labour Day Special**
